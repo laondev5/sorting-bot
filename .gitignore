@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+service-account.json
+service-account.oneline.txt
+KNOWLEDGE_BASE.md
